@@ -1,3 +1,7 @@
+**env content**:
+PORT=5000
+MONGODB_URI=mongodb+srv://fathimakh2006_db_user:8VB6l4xER8OqXsqL@cluster0.jcwdejc.mongodb.net/feedbackflow?retryWrites=true&w=majority
+
 # FeedbackFlow — Course Feedback Admin
 
 A custom-built MERN application for reviewing and managing course feedback. The interface and code structure are written for this project; customize the colors, copy, and sample data to make it your own.
@@ -8,6 +12,7 @@ A custom-built MERN application for reviewing and managing course feedback. The 
 
 ## Project structure
 - `frontend/` — React + Vite client
+
 - `backend/` — Express API + Mongoose model
 
 ## 1. Configure MongoDB Atlas
